@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello there 👋
+
+It's Ata! I am a computer science & engineering graduate from Sabanci University. I love designing and developing web pages by using React.js. 
+Also, as a hobby, I enjoy playing games and developing such games on my own 🙂👾.
+
+- 🌱 I’m currently learning .Net Core & Entity Framework
+- 💬 Feel free to ask me about anything... Related repositories, career, life etc. 🤗
+- 📫 You can reach me via email at aonbas@sabanciuniv.edu / mataonbas@hotmail.com
+- 🕸️ I have also a personal web page where you can get to know me even more ➡️ [site_name](https://main.d1worzknxnym6p.amplifyapp.com/) 🤙
 
 <!--
 **mustafaataonbas/mustafaataonbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
