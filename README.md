@@ -8,6 +8,8 @@ Also, as a hobby, I enjoy playing games and developing such games on my own 🙂
 - 📫 You can reach me via email at aonbas@sabanciuniv.edu / mataonbas@hotmail.com
 - 🕸️ I have also a personal web page where you can get to know me even more ➡️ [MyCV](https://main.d1worzknxnym6p.amplifyapp.com/) 🤙
 
+Thanks for visiting!
+
 <!--
 **mustafaataonbas/mustafaataonbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
