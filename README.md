@@ -6,7 +6,7 @@ Also, as a hobby, I enjoy playing games and developing such games on my own 🙂
 - 🌱 I’m currently learning .Net Core & Entity Framework & Angular.js
 - 💬 Feel free to ask me about anything... Projects, career, life etc. 🤗
 - 📫 You can reach me via email at aonbas@sabanciuniv.edu / mataonbas@hotmail.com
-- 🕸️ I have also a personal web page where you can get to know me even more ➡️ [MyCV](https://main.d1worzknxnym6p.amplifyapp.com/) 🤙
+- 🕸️ I have also a personal web page where you can get to know me even more ➡️ [MyCV](https://www.mataonbas-cv.com) 🤙
 
 Thanks for visiting!
 
