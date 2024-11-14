@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-It's Ata! I am a computer science & engineering graduate from Sabanci University.
+It's Ata!
 
 - 💬 Feel free to ask me about anything... Projects, career, life etc. 🤗
 - 📫 You can reach me via email at aonbas@sabanciuniv.edu / mataonbas@hotmail.com
