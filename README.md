@@ -1,10 +1,10 @@
-### Hello there 👋
+### Hello there! 👋
 
 It's Ata!
 
 - 💬 Feel free to ask me about anything... Projects, career, life etc. 🤗
-- 📫 You can reach me via email at aonbas@sabanciuniv.edu / mataonbas@hotmail.com
-- 🕸️ I have also a personal web page where you can get to know me even more ➡️ [MyCV](https://www.mataonbas-cv.com)
+- 📫 You can reach me via email at mustafa.ata.onbas@student.tuwien.ac.at / mataonbas@hotmail.com
+- 🕸️ I also have a personal web page where you can get to know me even more ➡️ [MyCV](https://www.mataonbas-cv.com)
 
 Thanks for visiting!
 
